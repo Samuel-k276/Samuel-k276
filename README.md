@@ -1,5 +1,6 @@
 <h1> Hello, I'm Samuel </h1>
-`Comp.Sci Enthusiast`
+
+```Comp.Sci Enthusiast```
 
 I'm a Computer Science and Engineering student at Instituto Superior Técnico.
 
