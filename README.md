@@ -16,6 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Samuel-k276&show_icons=true&theme=transparent&title_color=ff7f00&icon_color=ff7f00&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="80%" />
 </div>
 
-### Contribution Graph
-[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Samuel-k276&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
