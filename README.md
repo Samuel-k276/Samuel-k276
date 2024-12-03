@@ -17,4 +17,5 @@
 </div>
 
 ### Contribution Graph
-![GitHub Contribution Graph](https://github.com/seu-usuario/Samuel-k276/raw/output/github-contribution-grid-snake.svg)
+[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Samuel-k276&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
