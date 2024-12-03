@@ -1,5 +1,8 @@
 <h1> Hello, I'm Samuel </h1>
-'{@code Comp.Sci Enthusiast}'
+<pre>
+{@code Comp.Sci Enthusiast}
+</pre>
+
 I'm a Computer Science and Engineering student at Instituto Superior Técnico.
 
 <div align="left">
