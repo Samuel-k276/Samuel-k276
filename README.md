@@ -17,4 +17,4 @@
 </div>
 
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-k276&layout=compact)
