@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Samuel
 
-🎓 3nd year Computer Engineering student @ Instituto Superior Técnico  
+🎓 3nd year Computer Engineering student @ Instituto Superior Técnico 
+
 🔬 Interests: Software Engineering
 
 ⚙️ Software Sngineer @ TripAdvisor
