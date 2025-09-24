@@ -1,8 +1,9 @@
 ## 👋 Hello, I'm Samuel
 
-🎓 2nd year Computer Engineering student @ Instituto Superior Técnico  
-🔬 Interests: Software Engineering, Cybersecurity
-⚙️ Incoming software engineer inter @ TripAdvisor
+🎓 3nd year Computer Engineering student @ Instituto Superior Técnico  
+🔬 Interests: Software Engineering
+
+⚙️ Software Sngineer @ TripAdvisor
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-esteves-gomes/) 
